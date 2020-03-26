@@ -53,7 +53,7 @@ lab:
 
 ### タスク 1：AdventureWorks のバッチ モード処理要件の一覧表示
 
-1. マシンから **Microsoft Wor** を起動し、ファイル **DP-201-Lab02_Ex01_Ta01.docx** を **Allfiles\Labfiles\Starter\DP-201.1** フォルダから開きます。
+1. マシンから **Microsoft Wor** を起動し、ファイル **DP-201-Lab02_Ex01_Ta01.docx** を **Allfiles\Labfiles\Starter\DP-201.2** フォルダから開きます。
 
 1. グループとして、AdventureWorks の Enterprise BI ソリューションの一部となる要件について **15 分間** 説明し、リストを作成します。ケーススタディから証拠を提供する必要があります。
 
@@ -61,7 +61,7 @@ lab:
 
 ### タスク 2：AdventureWorks の Enterprise BI ソリューションを反映した高レベルのアーキテクチャを構築します。
 
-1. マシンから **Microsoft Wor** を起動し、ファイル **DP-201-Lab01_Ex01_Ta02.docx** を **Allfiles\Labfiles\Starter\DP-201.1** フォルダから開きます。
+1. マシンから **Microsoft Wor** を起動し、ファイル **DP-201-Lab01_Ex01_Ta02.docx** を **Allfiles\Labfiles\Starter\DP-201.2** フォルダから開きます。
  
 1. グループとして、AdventureWorks の Enterprise BI ソリューションの一部となるアーキテクチャについて **20 分間** 議論し、図示します。アイコン フォルダでの png ファイルを使用して、アーキテクチャを構築できます。
 
@@ -77,23 +77,23 @@ lab:
 
 ### タスク 1：AdventureWorks で Enterprise BI ソリューションの自動化を含めるように、高レベルのアーキテクチャを修正します。
 
-1. マシンから **Microsoft Wor** を起動し、ファイル **DP-201-Lab01_Ex02_Ta01.docx** を **Allfiles\Labfiles\Starter\DP-201.1** フォルダから開きます。ドキュメントを読み、例を確認します。
+1. マシンから **Microsoft Wor** を起動し、ファイル **DP-201-Lab01_Ex02_Ta01.docx** を **Allfiles\Labfiles\Starter\DP-201.2** フォルダから開きます。ドキュメントを読み、例を確認します。
 
 1. グループとして、ドキュメント **DP-201-Lab01_Ex01_Ta02.docx** の AdventureWorks の Enterpris BI ソリューションの一部として定義したアーキテクチャを **15 分間** 確認します。データ ファクトリによって自動化されるワークフローに [Data Factory] アイコンを追加します。アイコン フォルダでの png ファイルを使用して、アーキテクチャを構築できます。
 
 > **結果**：この演習を完了したら、AdventureWorks に Enterprise BI ソリューションの自動化を含めたアーキテクチャを修正しました。
 
-## 演習 3：Azure で Enterprise BI ソリューションを自動化する
+## 演習 3：Azure での会話型ボット ソリューション
 
 **グループ演習**
   
 この演習の主なタスクは次のとおりです。
 
-1. AdventureWorks で Enterprise BI ソリューションの自動化を含めるように、高レベルのアーキテクチャを修正します。
+1. AdventureWorks で会話型ボット ソリューションの自動化を含めるように、高レベルのアーキテクチャを修正します。
 
 ### タスク 1：Azure でエンタープライズ グレードの会話ボットを構築する
 
-1. マシンから **Microsoft Wor** を起動し、ファイル **DP-201-Lab01_Ex03_Ta01.docx** を **Allfiles\Labfiles\Starter\DP-201.1** フォルダから開きます。ドキュメントを読み、例を確認します。
+1. マシンから **Microsoft Wor** を起動し、ファイル **DP-201-Lab01_Ex03_Ta01.docx** を **Allfiles\Labfiles\Starter\DP-201.2** フォルダから開きます。ドキュメントを読み、例を確認します。
 
 1. グループとして、AdventureWorks の Enterprise グレードの会話型ボットの一部を形成するアーキテクチャについて、 **10 分間** 議論し、図示します。アイコン フォルダでの png ファイルを使用して、アーキテクチャを構築できます。
 

@@ -69,7 +69,7 @@ lab:
 
 ### タスク 1：AdventureWorks のパフォーマンスとスケーラビリティの要件を特定します。
 
-1. コンピュータから **Microsoft Word** を起動 し、ファイル **DP-200-Lab01.docx** を **Allfiles\Labfiles\Starter\DP-200.1** フォルダから開きます。
+1. コンピュータから **Microsoft Word** を起動 し、ファイル **DP-201-Lab01.docx** を **Allfiles\Labfiles\Starter\DP-201.1** フォルダから開きます。
 
 1. グループとして、ケーススタディ ドキュメント内でグループが特定したパフォーマンスとスケーラビリティの要件について **15 分間** 説明し、リストします。ケーススタディから証拠を提供する必要があります。
 
@@ -85,7 +85,7 @@ lab:
 
 ### タスク 1：AdventureWorks の可用性と回復性の要件を特定します。
 
-1. コンピュータから **Microsoft Word** を起動 し、ファイル **DP-200-Lab01.docx** を **Allfiles\Labfiles\Starter\DP-200.1** フォルダから開きます。
+1. コンピュータから **Microsoft Word** を起動 し、ファイル **DP-201-Lab01.docx** を **Allfiles\Labfiles\Starter\DP-201.1** フォルダから開きます。
 
 1. グループとして、AdventureWorks の スケーリングのメリットを得るサービスについて **15 分間** 話し合い、記録します。ケーススタディから証拠を提供する必要があります。
 
@@ -101,9 +101,9 @@ lab:
 
 ### タスク 1：AdventureWorks の効率性と操作要件を特定します。
 
-1. コンピュータから **Microsoft Word** を起動 し、ファイル **DP-200-Lab01.docx** を **Allfiles\Labfiles\Starter\DP-200.1** フォルダから開きます。
+1. コンピュータから **Microsoft Word** を起動 し、ファイル **DP-201-Lab01.docx** を **Allfiles\Labfiles\Starter\DP-201.1** フォルダから開きます。
 
-1. グループとして、AdventureWorks の スケーリングのメリットを得るサービスについて **15 分間** 話し合い、記録します。ケーススタディから証拠を提供する必要があります。
+1. グループでケース スタディ ドキュメントから特定したセキュリティ要件について、グループで **15 分間** 話し合い、項目をリスト化します。
 
 > **結果**：この演習を完了したら、AdventureWorks のセキュリティ要件の表を示す Microsoft Word ドキュメントを作成しました。
 
